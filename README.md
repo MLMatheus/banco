@@ -1,7 +1,7 @@
 Esse projeto tem como finalidade, a compreensão de conceitos básicos e intermediários em lógica de programação, utilizando para isso a linguagem Python.
 Disponível em português, inglês e espanhol, você poderá aprender ainda,  como internacionalizar seu projeto, de forma simples e fácil, sem que seja preciso obter conhecimento avançado em programação.
 Obs: Tradução feita com tradutor automático, apenas para fins de testes. Sinta-se à vontade para fazer sua própria tradução!
-##Funcionalidades
+## Funcionalidades
 Esse projeto, consiste em um simulador de um sistema bancário, sendo 2 softwares. Um para o caixa eletrônico, e outro para o gerente. Veja a baixo algumas funcionalidades:
 *Cadastro, remoção e alteração de dados de clientes e gerentes;
 *Depósito;
